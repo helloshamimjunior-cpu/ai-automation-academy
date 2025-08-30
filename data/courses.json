@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Zapier দিয়ে AI Automation",
+    "slug": "zapier",
+    "level": "Beginner",
+    "duration_hours": 12,
+    "price_cents": 399000,
+    "thumbnail_url": "/assets/course-zapier.svg",
+    "overview": "কোড ছাড়াই Zapier ব্যবহার করে ইমেইল, শিট, স্ল্যাক ও সোশ্যাল টাস্ক অটোমেট করা শিখবেন। AI ইন্টিগ্রেশন দিয়ে রিপ্লাই/সামারি/কনটেন্ট জেনারেশন—সব হাতে‑কলমে।",
+    "outcomes": [
+      "Zapier বেসিক, Trigger/Action, Multi‑step workflow",
+      "ChatGPT/Claude ইন্টিগ্রেশন ও প্রম্পট বেস্ট প্র্যাকটিস",
+      "ইমেইল অটো‑রিপ্লাই, ডাটা সামারি, সোশ্যাল পোস্ট",
+      "Filters, Formatter, Webhooks, Error handling",
+      "AI Agent + Zapier (ইনট্রো)"
+    ],
+    "projects": [
+      "Automated Email Responder (Gmail → AI → Draft)",
+      "Social Post Automation (Sheet → AI → Twitter/FB)",
+      "Lead Management (Typeform → AI → Slack)"
+    ],
+    "faq": [
+      {
+        "q": "কোডিং জানতে হবে?",
+        "a": "না। একদম বিগিনার‑ফ্রেন্ডলি।"
+      },
+      {
+        "q": "কতগুলো Zap বানাব?",
+        "a": "৮–১০টি ওয়ার্কফ্লো + ৩টি প্রজেক্ট।"
+      },
+      {
+        "q": "ফ্রি প্ল্যানে হবে?",
+        "a": "বেসিক সম্ভব; প্রো ইউজে পেইড লাগতে পারে।"
+      }
+    ]
+  },
+  {
+    "title": "Make দিয়ে ভিজ্যুয়াল AI Workflow",
+    "slug": "make",
+    "level": "Intermediate",
+    "duration_hours": 14,
+    "price_cents": 499000,
+    "thumbnail_url": "/assets/course-make.svg",
+    "overview": "Make (Integromat)‑এ ভিজ্যুয়াল সিনারিও, রাউটার/ফিল্টার, ইটারেটর‑এগ্রিগেটর দিয়ে জটিল ওয়ার্কফ্লো তৈরি। AI দিয়ে কনটেন্ট/সামারি পাইপলাইন।",
+    "outcomes": [
+      "Scenario builder, Routers/Filters",
+      "OpenAI মডিউল ও প্রম্পট ডিজাইন",
+      "Iterators/Aggregators দিয়ে ডাটা প্রসেসিং",
+      "Webhooks ও এক্সটার্নাল API",
+      "Data Store, Error handling"
+    ],
+    "projects": [
+      "Social Content Pipeline (Sheet → AI → Auto publish)",
+      "Meeting Notes (Transcript → AI → Notion)",
+      "Review Analyzer (Reviews → AI → Report)"
+    ],
+    "faq": [
+      {
+        "q": "Make কি ফ্রি?",
+        "a": "হ্যাঁ, কিন্তু টাস্ক লিমিটেড।"
+      },
+      {
+        "q": "Zapier vs Make?",
+        "a": "Zapier নতুনদের, Make জটিল ভিজ্যুয়াল ফ্লোর জন্য।"
+      },
+      {
+        "q": "API লাগবে?",
+        "a": "কিছু প্রজেক্টে Webhook/API ব্যবহার হবে।"
+      }
+    ]
+  },
+  {
+    "title": "n8n দিয়ে অ্যাডভান্সড AI Automation",
+    "slug": "n8n",
+    "level": "Advanced",
+    "duration_hours": 16,
+    "price_cents": 599000,
+    "thumbnail_url": "/assets/course-n8n.svg",
+    "overview": "ওপেন‑সোর্স n8n‑এ সেল্ফ‑হোস্টেড, প্রোডাকশন‑গ্রেড অটোমেশন। API/DB/কাস্টম কোড, স্কেলিং, কিউ মোড—সব একসাথে।",
+    "outcomes": [
+      "n8n সেটআপ (Cloud/Docker)",
+      "OpenAI/HF ইন্টিগ্রেশন ও ওয়ার্কফ্লো প্রম্পটিং",
+      "Database (MySQL/Postgres/Mongo) সংযোগ",
+      "Web scraping + AI কম্বো",
+      "Custom Function nodes, Sub‑workflows, Queue mode"
+    ],
+    "projects": [
+      "Research Assistant (Scrape → AI → Mail)",
+      "Automated Data Cleaner (CSV → AI → CSV)",
+      "Customer Support Bot (WhatsApp → AI → CRM)",
+      "Social Bot (Schedule → AI → Auto Post)"
+    ],
+    "faq": [
+      {
+        "q": "Self‑host করতে হবে?",
+        "a": "ঐচ্ছিক। Docker/Linux জানলে সহজ।"
+      },
+      {
+        "q": "n8n Cloud আছে?",
+        "a": "হ্যাঁ, অফিশিয়াল ক্লাউড আছে।"
+      },
+      {
+        "q": "বিগিনার পারবে?",
+        "a": "আগে Zapier/Make জানা থাকলে বেস্ট।"
+      }
+    ]
+  },
+  {
+    "title": "AI Agent + Automation Full Stack",
+    "slug": "capstone",
+    "level": "Mixed",
+    "duration_hours": 18,
+    "price_cents": 699000,
+    "thumbnail_url": "/assets/course-capstone.svg",
+    "overview": "AI Agent আর্কিটেকচার, মাল্টি‑এজেন্ট সিস্টেম, RAG, এবং Zapier/Make/n8n‑এর সঙ্গে ফুল‑স্ট্যাক সলিউশন।",
+    "outcomes": [
+      "Agent architecture (Planner/Memory/Tools)",
+      "Multi‑agent system ডিজাইন",
+      "RAG ইন্টিগ্রেশন",
+      "Agent + Automation টুলসের জোট",
+      "ডিপ্লয়মেন্ট (Cloud/Self‑hosted)"
+    ],
+    "projects": [
+      "Research + Writer + Editor Multi‑Agent",
+      "Automated Business Report Generator",
+      "AI‑powered Sales Assistant",
+      "Personal Assistant (Email → Summary → Calendar → Slack)"
+    ],
+    "faq": [
+      {
+        "q": "Prerequisite?",
+        "a": "অন্তত Zapier & Make জানা বাঞ্ছনীয়।"
+      },
+      {
+        "q": "লাইভ প্রজেক্ট?",
+        "a": "হ্যাঁ, প্রতি মডিউলে পূর্ণ প্রজেক্ট।"
+      },
+      {
+        "q": "সার্টিফিকেট?",
+        "a": "বিশেষ ‘Full Stack AI Automation’ সার্টিফিকেট।"
+      }
+    ]
+  }
+]
